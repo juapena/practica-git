@@ -2,3 +2,4 @@ Hola, este es un texto random
 
 Esta línea debe dar conflictos
 probando conflictos
+Más conflictos
